@@ -1,3 +1,4 @@
+import solutions.sorting.NumberOfDiscIntersections
 
 object CodilityApp extends App {
 
@@ -6,7 +7,7 @@ object CodilityApp extends App {
   )
 
   testCases.foreach {
-    case  (arr, res) =>
+    case  _ => ???
   }
 
 }
